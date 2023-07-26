@@ -1,5 +1,3 @@
-# Implementing-Statistics-with-Python
-
 ## How to Use this Book
 
 ## About 
