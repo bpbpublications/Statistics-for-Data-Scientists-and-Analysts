@@ -1,0 +1,6 @@
+Date: 2023-08-03
+Sender: International Business Ltd.
+Amount: $5,000.00
+Description: Payment for goods shipped last month - Invoice #INV12345.
+
+You have received an incoming wire transfer of $5,000.00 from International Business Ltd.

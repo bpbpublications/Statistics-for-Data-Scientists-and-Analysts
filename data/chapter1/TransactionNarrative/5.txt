@@ -1,0 +1,6 @@
+Date: 2023-08-07
+Credit Card: XYZ Bank - Platinum Card
+Amount: $350.00
+Description: Payment towards credit card bill for the August statement.
+
+Thank you for your payment of $350.00 towards your credit card account.

@@ -1,0 +1,6 @@
+Date: 2023-08-05
+Merchant: Bistro Delight
+Amount: $42.75
+Description: Dinner with colleagues - celebrating a successful project launch.
+
+Thank you for choosing Bistro Delight. Your payment of $42.75 has been processed.

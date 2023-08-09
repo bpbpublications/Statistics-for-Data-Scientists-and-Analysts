@@ -1,0 +1,6 @@
+Date: 2023-08-08
+Location: ABC Bank ATM - Main Street
+Amount: $200.00
+Description: Cash withdrawal for weekend trip expenses.
+
+Here is your transaction receipt for the withdrawal of $200.00.

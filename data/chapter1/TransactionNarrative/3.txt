@@ -1,0 +1,6 @@
+Date: 2023-08-01
+Merchant: VideoStream Plus
+Amount: $9.99
+Description: Monthly renewal of VideoStream Plus subscription.
+
+Your subscription to VideoStream Plus has been successfully renewed for $9.99.
