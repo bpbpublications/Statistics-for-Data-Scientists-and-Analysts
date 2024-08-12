@@ -1,4 +1,4 @@
-# Implementing Statistics with Python
+# Statistics for Data Scientists and Analysts
 
 This repository contains Python-based tutorials, examples, and explanations for implementing statistical concepts using open source Python libraries. All examples are based on publicly available CC-BY 4.0 datasets. Comments are used extensively for explanation. It covers the following chapters in the `Table of Contents` below.
 
