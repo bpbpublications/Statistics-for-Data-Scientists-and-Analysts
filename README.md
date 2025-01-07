@@ -5,16 +5,16 @@ This repository contains Python-based tutorials, examples, and explanations for 
 ## Table of Contents
 
 1. Foundations of Data Analysis and Python
-2. Exploratory data analysis
-3. Frequency distribution, central tendency, variability
-4. Unraveling statistical relationships
-5. Estimation and confidence interval
-6. Hypothesis and significance testing
-7. Statistical machine learning
-8. Unsupervised machine learning
-9. Linear algebra, nonparametric statistics and time series analysis
-10. Generative AI and prompt engineering
-11. Data Science in Action: Real-World Statistical Applications
+2. Exploratory Data Analysis
+3. Frequency Distribution, Central Tendency, Variability
+4. Unravelling Statistical Relationships
+5. Estimation and Confidence Intervals
+6. Hypothesis and Significance Testing 
+7. Statistical Machine Learning
+8. Unsupervised Machine Learning
+9. Linear Algebra, Nonparametric Statistics, and Time Series Analysis
+10. Generative AI and Prompt Engineering
+11. Real World Statistical Applications
 
 ## Introduction
 
